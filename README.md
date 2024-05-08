@@ -9,8 +9,3 @@ This project is inspired by the "50 Projects in 50 Days" challenge, aiming to pr
 ## Project Structure
 
 Each project is organized into its own directory within this repository. Inside each project directory, you'll find the necessary HTML, CSS, and JavaScript files, along with any additional assets or resources needed to complete the project.
-
-## Getting Started
-
-To get started with these mini web projects, simply clone this repository to your local machine:
-
